@@ -1,0 +1,478 @@
+{
+  "01_2506.06962v3.pdf": {
+    "title": "AR-RAG: Autoregressive Retrieval Augmentation for Image Generation",
+    "authors": [
+      "Jingyuan Qi",
+      "Zhiyang Xu",
+      "Qifan Wang",
+      "Lifu Huang"
+    ],
+    "year": "2025",
+    "arxiv_id": "2506.06962v3",
+    "url": "https://arxiv.org/abs/2506.06962v3",
+    "citation": "Jingyuan Qi, Zhiyang Xuet al. (2025). AR-RAG: Autoregressive Retrieval Augmentation for Image Generation. arXiv:2506.06962v3"
+  },
+  "02_2411.18583v1.pdf": {
+    "title": "Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation",
+    "authors": [
+      "Nurshat Fateh Ali",
+      "Md. Mahdi Mohtasim",
+      "Shakil Mosharrof",
+      "T. Gopi Krishna"
+    ],
+    "year": "2024",
+    "arxiv_id": "2411.18583v1",
+    "url": "https://arxiv.org/abs/2411.18583v1",
+    "citation": "Nurshat Fateh Ali, Md. Mahdi Mohtasimet al. (2024). Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation. arXiv:2411.18583v1"
+  },
+  "03_2605.12335v1.pdf": {
+    "title": "EHR-RAGp: Retrieval-Augmented Prototype-Guided Foundation Model for Electronic Health Records",
+    "authors": [
+      "Saeed Shurrab",
+      "Mariam Al-Omari",
+      "Dana El Samad",
+      "Farah E. Shamout"
+    ],
+    "year": "2026",
+    "arxiv_id": "2605.12335v1",
+    "url": "https://arxiv.org/abs/2605.12335v1",
+    "citation": "Saeed Shurrab, Mariam Al-Omariet al. (2026). EHR-RAGp: Retrieval-Augmented Prototype-Guided Foundation Model for Electronic Health Records. arXiv:2605.12335v1"
+  },
+  "04_2504.13684v1.pdf": {
+    "title": "Intelligent Interaction Strategies for Context-Aware Cognitive Augmentation",
+    "authors": [
+      " Xiangrong",
+      " Zhu",
+      "Yuan Xu",
+      "Tianjian Liu",
+      "Jingwei Sun",
+      "Yu Zhang",
+      "Xin Tong"
+    ],
+    "year": "2025",
+    "arxiv_id": "2504.13684v1",
+    "url": "https://arxiv.org/abs/2504.13684v1",
+    "citation": " Xiangrong,  Zhuet al. (2025). Intelligent Interaction Strategies for Context-Aware Cognitive Augmentation. arXiv:2504.13684v1"
+  },
+  "05_2503.16581v1.pdf": {
+    "title": "Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models",
+    "authors": [
+      "Zahra Khalila",
+      "Arbi Haza Nasution",
+      "Winda Monika",
+      "Aytug Onan",
+      "Yohei Murakami",
+      "Yasir Bin Ismail Radi",
+      "Noor Mohammad Osmani"
+    ],
+    "year": "2025",
+    "arxiv_id": "2503.16581v1",
+    "url": "https://arxiv.org/abs/2503.16581v1",
+    "citation": "Zahra Khalila, Arbi Haza Nasutionet al. (2025). Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models. arXiv:2503.16581v1"
+  },
+  "06_2504.17204v1.pdf": {
+    "title": "Factually: Exploring Wearable Fact-Checking for Augmented Truth Discernment",
+    "authors": [
+      "Chitralekha Gupta",
+      "Hanjun Wu",
+      "Praveen Sasikumar",
+      "Shreyas Sridhar",
+      "Priambudi Bagaskara",
+      "Suranga Nanayakkara"
+    ],
+    "year": "2025",
+    "arxiv_id": "2504.17204v1",
+    "url": "https://arxiv.org/abs/2504.17204v1",
+    "citation": "Chitralekha Gupta, Hanjun Wuet al. (2025). Factually: Exploring Wearable Fact-Checking for Augmented Truth Discernment. arXiv:2504.17204v1"
+  },
+  "07_2402.12317v2.pdf": {
+    "title": "EVOR: Evolving Retrieval for Code Generation",
+    "authors": [
+      "Hongjin Su",
+      "Shuyang Jiang",
+      "Yuhang Lai",
+      "Haoyuan Wu",
+      "Boao Shi",
+      "Che Liu",
+      "Qian Liu",
+      "Tao Yu"
+    ],
+    "year": "2024",
+    "arxiv_id": "2402.12317v2",
+    "url": "https://arxiv.org/abs/2402.12317v2",
+    "citation": "Hongjin Su, Shuyang Jianget al. (2024). EVOR: Evolving Retrieval for Code Generation. arXiv:2402.12317v2"
+  },
+  "08_2502.00306v2.pdf": {
+    "title": "Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation",
+    "authors": [
+      "Ali Naseh",
+      "Yuefeng Peng",
+      "Anshuman Suri",
+      "Harsh Chaudhari",
+      "Alina Oprea",
+      "Amir Houmansadr"
+    ],
+    "year": "2025",
+    "arxiv_id": "2502.00306v2",
+    "url": "https://arxiv.org/abs/2502.00306v2",
+    "citation": "Ali Naseh, Yuefeng Penget al. (2025). Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation. arXiv:2502.00306v2"
+  },
+  "09_2510.22344v1.pdf": {
+    "title": "FAIR-RAG: Faithful Adaptive Iterative Refinement for Retrieval-Augmented Generation",
+    "authors": [
+      "Mohammad Aghajani Asl",
+      "Majid Asgari-Bidhendi",
+      "Behrooz Minaei-Bidgoli"
+    ],
+    "year": "2025",
+    "arxiv_id": "2510.22344v1",
+    "url": "https://arxiv.org/abs/2510.22344v1",
+    "citation": "Mohammad Aghajani Asl, Majid Asgari-Bidhendiet al. (2025). FAIR-RAG: Faithful Adaptive Iterative Refinement for Retrieval-Augmented Generation. arXiv:2510.22344v1"
+  },
+  "20_2307.12114v3.pdf": {
+    "title": "A Zero-shot and Few-shot Study of Instruction-Finetuned Large Language Models Applied to Clinical and Biomedical Tasks",
+    "authors": [
+      "Yanis Labrak",
+      "Mickael Rouvier",
+      "Richard Dufour"
+    ],
+    "year": "2023",
+    "arxiv_id": "2307.12114v3",
+    "url": "https://arxiv.org/abs/2307.12114v3",
+    "citation": "Yanis Labrak, Mickael Rouvieret al. (2023). A Zero-shot and Few-shot Study of Instruction-Finetuned Large Language Models Applied to Clinical and Biomedical Tasks. arXiv:2307.12114v3"
+  },
+  "21_2506.00250v4.pdf": {
+    "title": "PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark",
+    "authors": [
+      "Mohammad Javad Ranjbar Kalahroodi",
+      "Amirhossein Sheikholselami",
+      "Sepehr Karimi",
+      "Sepideh Ranjbar Kalahroodi",
+      "Heshaam Faili",
+      "Azadeh Shakery"
+    ],
+    "year": "2025",
+    "arxiv_id": "2506.00250v4",
+    "url": "https://arxiv.org/abs/2506.00250v4",
+    "citation": "Mohammad Javad Ranjbar Kalahroodi, Amirhossein Sheikholselamiet al. (2025). PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark. arXiv:2506.00250v4"
+  },
+  "22_2304.12244v3.pdf": {
+    "title": "WizardLM: Empowering large pre-trained language models to follow complex instructions",
+    "authors": [
+      "Can Xu",
+      "Qingfeng Sun",
+      "Kai Zheng",
+      "Xiubo Geng",
+      "Pu Zhao",
+      "Jiazhan Feng",
+      "Chongyang Tao",
+      "Qingwei Lin",
+      "Daxin Jiang"
+    ],
+    "year": "2023",
+    "arxiv_id": "2304.12244v3",
+    "url": "https://arxiv.org/abs/2304.12244v3",
+    "citation": "Can Xu, Qingfeng Sunet al. (2023). WizardLM: Empowering large pre-trained language models to follow complex instructions. arXiv:2304.12244v3"
+  },
+  "23_2407.08029v1.pdf": {
+    "title": "A Critical Review of Causal Reasoning Benchmarks for Large Language Models",
+    "authors": [
+      "Linying Yang",
+      "Vik Shirvaikar",
+      "Oscar Clivio",
+      "Fabian Falck"
+    ],
+    "year": "2024",
+    "arxiv_id": "2407.08029v1",
+    "url": "https://arxiv.org/abs/2407.08029v1",
+    "citation": "Linying Yang, Vik Shirvaikaret al. (2024). A Critical Review of Causal Reasoning Benchmarks for Large Language Models. arXiv:2407.08029v1"
+  },
+  "10_2504.14689v1.pdf": {
+    "title": "2504.14689v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2504.14689v1",
+    "url": "https://arxiv.org/abs/2504.14689v1",
+    "citation": "arXiv:2504.14689v1"
+  },
+  "11_2309.15217v2.pdf": {
+    "title": "2309.15217v2",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2309.15217v2",
+    "url": "https://arxiv.org/abs/2309.15217v2",
+    "citation": "arXiv:2309.15217v2"
+  },
+  "12_2507.23334v2.pdf": {
+    "title": "2507.23334v2",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2507.23334v2",
+    "url": "https://arxiv.org/abs/2507.23334v2",
+    "citation": "arXiv:2507.23334v2"
+  },
+  "13_2403.03788v1.pdf": {
+    "title": "2403.03788v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2403.03788v1",
+    "url": "https://arxiv.org/abs/2403.03788v1",
+    "citation": "arXiv:2403.03788v1"
+  },
+  "14_1610.00031v1.pdf": {
+    "title": "1610.00031v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "1610.00031v1",
+    "url": "https://arxiv.org/abs/1610.00031v1",
+    "citation": "arXiv:1610.00031v1"
+  },
+  "15_2510.22758v2.pdf": {
+    "title": "2510.22758v2",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2510.22758v2",
+    "url": "https://arxiv.org/abs/2510.22758v2",
+    "citation": "arXiv:2510.22758v2"
+  },
+  "16_2306.13394v5.pdf": {
+    "title": "2306.13394v5",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2306.13394v5",
+    "url": "https://arxiv.org/abs/2306.13394v5",
+    "citation": "arXiv:2306.13394v5"
+  },
+  "17_2306.09265v1.pdf": {
+    "title": "2306.09265v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2306.09265v1",
+    "url": "https://arxiv.org/abs/2306.09265v1",
+    "citation": "arXiv:2306.09265v1"
+  },
+  "18_1312.3005v3.pdf": {
+    "title": "1312.3005v3",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "1312.3005v3",
+    "url": "https://arxiv.org/abs/1312.3005v3",
+    "citation": "arXiv:1312.3005v3"
+  },
+  "19_2309.13345v3.pdf": {
+    "title": "2309.13345v3",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2309.13345v3",
+    "url": "https://arxiv.org/abs/2309.13345v3",
+    "citation": "arXiv:2309.13345v3"
+  },
+  "24_2402.11651v2.pdf": {
+    "title": "2402.11651v2",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2402.11651v2",
+    "url": "https://arxiv.org/abs/2402.11651v2",
+    "citation": "arXiv:2402.11651v2"
+  },
+  "25_1609.04846v1.pdf": {
+    "title": "1609.04846v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "1609.04846v1",
+    "url": "https://arxiv.org/abs/1609.04846v1",
+    "citation": "arXiv:1609.04846v1"
+  },
+  "26_2502.01654v1.pdf": {
+    "title": "2502.01654v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2502.01654v1",
+    "url": "https://arxiv.org/abs/2502.01654v1",
+    "citation": "arXiv:2502.01654v1"
+  },
+  "27_1901.06610v2.pdf": {
+    "title": "1901.06610v2",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "1901.06610v2",
+    "url": "https://arxiv.org/abs/1901.06610v2",
+    "citation": "arXiv:1901.06610v2"
+  },
+  "29_2202.09741v5.pdf": {
+    "title": "2202.09741v5",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2202.09741v5",
+    "url": "https://arxiv.org/abs/2202.09741v5",
+    "citation": "arXiv:2202.09741v5"
+  },
+  "30_2206.03003v2.pdf": {
+    "title": "2206.03003v2",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2206.03003v2",
+    "url": "https://arxiv.org/abs/2206.03003v2",
+    "citation": "arXiv:2206.03003v2"
+  },
+  "31_1803.02421v2.pdf": {
+    "title": "1803.02421v2",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "1803.02421v2",
+    "url": "https://arxiv.org/abs/1803.02421v2",
+    "citation": "arXiv:1803.02421v2"
+  },
+  "32_2203.07485v2.pdf": {
+    "title": "2203.07485v2",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2203.07485v2",
+    "url": "https://arxiv.org/abs/2203.07485v2",
+    "citation": "arXiv:2203.07485v2"
+  },
+  "33_1807.02892v1.pdf": {
+    "title": "1807.02892v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "1807.02892v1",
+    "url": "https://arxiv.org/abs/1807.02892v1",
+    "citation": "arXiv:1807.02892v1"
+  },
+  "34_2209.15001v3.pdf": {
+    "title": "2209.15001v3",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2209.15001v3",
+    "url": "https://arxiv.org/abs/2209.15001v3",
+    "citation": "arXiv:2209.15001v3"
+  },
+  "35_2102.00240v1.pdf": {
+    "title": "2102.00240v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2102.00240v1",
+    "url": "https://arxiv.org/abs/2102.00240v1",
+    "citation": "arXiv:2102.00240v1"
+  },
+  "36_2306.14753v1.pdf": {
+    "title": "2306.14753v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2306.14753v1",
+    "url": "https://arxiv.org/abs/2306.14753v1",
+    "citation": "arXiv:2306.14753v1"
+  },
+  "37_2009.13836v1.pdf": {
+    "title": "2009.13836v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2009.13836v1",
+    "url": "https://arxiv.org/abs/2009.13836v1",
+    "citation": "arXiv:2009.13836v1"
+  },
+  "38_1511.05800v1.pdf": {
+    "title": "1511.05800v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "1511.05800v1",
+    "url": "https://arxiv.org/abs/1511.05800v1",
+    "citation": "arXiv:1511.05800v1"
+  },
+  "39_2505.21439v1.pdf": {
+    "title": "2505.21439v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2505.21439v1",
+    "url": "https://arxiv.org/abs/2505.21439v1",
+    "citation": "arXiv:2505.21439v1"
+  },
+  "40_1811.08772v1.pdf": {
+    "title": "1811.08772v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "1811.08772v1",
+    "url": "https://arxiv.org/abs/1811.08772v1",
+    "citation": "arXiv:1811.08772v1"
+  },
+  "41_2604.16416v1.pdf": {
+    "title": "2604.16416v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2604.16416v1",
+    "url": "https://arxiv.org/abs/2604.16416v1",
+    "citation": "arXiv:2604.16416v1"
+  },
+  "42_2108.06279v2.pdf": {
+    "title": "2108.06279v2",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2108.06279v2",
+    "url": "https://arxiv.org/abs/2108.06279v2",
+    "citation": "arXiv:2108.06279v2"
+  },
+  "43_2506.09781v2.pdf": {
+    "title": "2506.09781v2",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2506.09781v2",
+    "url": "https://arxiv.org/abs/2506.09781v2",
+    "citation": "arXiv:2506.09781v2"
+  },
+  "44_2602.00899v1.pdf": {
+    "title": "2602.00899v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2602.00899v1",
+    "url": "https://arxiv.org/abs/2602.00899v1",
+    "citation": "arXiv:2602.00899v1"
+  },
+  "45_2205.02303v1.pdf": {
+    "title": "2205.02303v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2205.02303v1",
+    "url": "https://arxiv.org/abs/2205.02303v1",
+    "citation": "arXiv:2205.02303v1"
+  },
+  "46_2304.03501v7.pdf": {
+    "title": "2304.03501v7",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2304.03501v7",
+    "url": "https://arxiv.org/abs/2304.03501v7",
+    "citation": "arXiv:2304.03501v7"
+  },
+  "47_2503.17507v1.pdf": {
+    "title": "2503.17507v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2503.17507v1",
+    "url": "https://arxiv.org/abs/2503.17507v1",
+    "citation": "arXiv:2503.17507v1"
+  },
+  "48_2407.04573v4.pdf": {
+    "title": "2407.04573v4",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2407.04573v4",
+    "url": "https://arxiv.org/abs/2407.04573v4",
+    "citation": "arXiv:2407.04573v4"
+  },
+  "49_1912.02145v1.pdf": {
+    "title": "1912.02145v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "1912.02145v1",
+    "url": "https://arxiv.org/abs/1912.02145v1",
+    "citation": "arXiv:1912.02145v1"
+  },
+  "50_2108.12898v1.pdf": {
+    "title": "2108.12898v1",
+    "authors": [],
+    "year": "",
+    "arxiv_id": "2108.12898v1",
+    "url": "https://arxiv.org/abs/2108.12898v1",
+    "citation": "arXiv:2108.12898v1"
+  }
+}

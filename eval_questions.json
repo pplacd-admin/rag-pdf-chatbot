@@ -1,0 +1,42 @@
+{
+  "categories": {
+    "factual_lookup": {
+      "description": "Direct facts from specific papers",
+      "questions": [
+        "What is retrieval augmented generation?",
+        "What embedding models are commonly used in dense retrieval?",
+        "What is the purpose of chunk overlap in document indexing?",
+        "What does RAGAS stand for and what does it measure?",
+        "What is the difference between open-domain and closed-domain question answering?"
+      ]
+    },
+    "multi_document": {
+      "description": "Requires synthesising across multiple papers",
+      "questions": [
+        "How do different papers compare dense and sparse retrieval methods?",
+        "What evaluation metrics are used across the indexed papers?",
+        "What are the common limitations of RAG systems mentioned across papers?",
+        "How do papers approach the problem of hallucination in language models?",
+        "What datasets are most commonly referenced across the papers?"
+      ]
+    },
+    "exact_term": {
+      "description": "Exact keyword lookup — tests BM25 contribution",
+      "questions": [
+        "What is BM25 and how does it work?",
+        "What is FAISS used for?",
+        "What is the BEIR benchmark?",
+        "What does the term bi-encoder mean in retrieval?",
+        "What is reciprocal rank fusion?"
+      ]
+    },
+    "out_of_scope": {
+      "description": "System should decline — tests faithfulness",
+      "questions": [
+        "What is the current stock price of Google?",
+        "Who won the football World Cup in 2022?",
+        "What is the weather in London today?"
+      ]
+    }
+  }
+}
